@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE listaventas SYSTEM "Ventas.dtd">
+
+<listaventas>
+    <venta>
+        <importe>2000</importe>
+        <comprador>Mateo Castaño</comprador>
+        <vendedor>Diego Castaño</vendedor>
+        <codigofactura>23123124</codigofactura>
+    </venta>
+</listaventas>
